@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(159, 159, 159);
+}
+
+#result {
+    font-family: 'rubik', sans-serif;
+    border-color: white;
+    text-shadow:
+}
+
+.inp12 {
+    background-color: white;
+    width: 150px;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: black;
+    font-family: 'rubik', sans-serif;
+    font-weight: 450;
+}
+
+::placeholder { 
+    color: rgb(82, 86, 81)
+  }
+
+.pdm {
+    background-color: rgba(235, 242, 106, 0.765);
+    width: 70px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: black;
+    font-family: 'rubik', sans-serif;
+    font-weight: 450;
+}
